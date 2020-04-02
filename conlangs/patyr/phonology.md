@@ -7,6 +7,7 @@
 | Stop       | p      | t       |         | k      |
 | Sibilant   | f /ɸ/  | s       |         | h /x/  |
 | Sonorant   | w      | r /r~l/ | j       | (w)    |
+
 (1) Allophone of n before k.
 
 | Vowels | Front | Central | Back |
