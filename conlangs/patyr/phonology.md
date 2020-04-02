@@ -1,6 +1,7 @@
 ## Patruin Language Phonology
 
 ## Phonology and phonotactics
+
 | Consonants | Labial | Dental  | Palatal | Velar  |
 | ---------- | ------ | ------- | ------- | ------ |
 | Nasal      | m      | n       |         | /ŋ/(1) |
